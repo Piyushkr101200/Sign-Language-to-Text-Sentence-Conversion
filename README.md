@@ -20,6 +20,7 @@ TensorFlow is an open-source software library for numerical computation. First, 
 
 # 4. Block Diagram:
 ![image](https://user-images.githubusercontent.com/110718114/188228044-8dbf80cd-a81c-47e4-95e4-298c251622c4.png)
+
 CNN Classifier Model
 ![image](https://user-images.githubusercontent.com/110718114/188232438-b7ac8ee3-e478-4255-85c5-12748391b8b1.png)
 
