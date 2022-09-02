@@ -20,4 +20,16 @@ TensorFlow is an open-source software library for numerical computation. First, 
 
 # 4. Block Diagram:
 ![image](https://user-images.githubusercontent.com/110718114/188228044-8dbf80cd-a81c-47e4-95e4-298c251622c4.png)
+![image](https://user-images.githubusercontent.com/110718114/188232438-b7ac8ee3-e478-4255-85c5-12748391b8b1.png)
 
+# 5. Results & conclusion:
+In this report, a functional real time vision based American sign language recognition for D&M people have been developed for asl alphabets. We achieved final accuracy of 95.4% on our dataset. We are able to improve our prediction after implementing two layers of algorithms in which we verify and predict symbols which are more similar to each other.
+This way we are able to detect almost all the symbols provided that they are shown properly, there is no noise in the background and lighting is adequate.
+
+# 6. Future scope & advancements:
+We are planning to achieve higher accuracy even in case of complex backgrounds by trying out various background subtraction algorithms. We are also thinking of improving the preprocessing to predict gestures in low light conditions with a higher accuracy.
+
+# 7. References:
+http://ecasp.ece.iit.edu/publications/2012-present/2021-03.pdf
+https://www.semanticscholar.org/paper/American-Sign-Language-Recognition-using-Deep-andBantupalli-Xie/2b0c7196868365fdbeea1742e1731ac43d8a3d6b
+https://www.sciencedirect.com/science/article/pii/S1877050920312473/pdf?md5=a4c07e371bbe5d4c4e0d663491bfd2da&pid=1-s2.0-S1877050920312473-main.pdf
